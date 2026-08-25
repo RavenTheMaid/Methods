@@ -1,6 +1,12 @@
 <Solution>
   <Project Path="MethodsOpg1.1/MethodsOpg1.1.csproj" />
+  <Project Path="MethodsOpg1.10/MethodsOpg1.10.csproj" />
   <Project Path="MethodsOpg1.2/MethodsOpg1.2.csproj" />
   <Project Path="MethodsOpg1.3/MethodsOpg1.3.csproj" />
   <Project Path="MethodsOpg1.4/MethodsOpg1.4.csproj" />
+  <Project Path="MethodsOpg1.5/MethodsOpg1.5.csproj" />
+  <Project Path="MethodsOpg1.6/MethodsOpg1.6.csproj" />
+  <Project Path="MethodsOpg1.7/MethodsOpg1.7.csproj" />
+  <Project Path="MethodsOpg1.8/MethodsOpg1.8.csproj" />
+  <Project Path="MethodsOpg1.9/MethodsOpg1.9.csproj" />
 </Solution>
