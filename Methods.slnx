@@ -9,4 +9,6 @@
   <Project Path="MethodsOpg1.7/MethodsOpg1.07.csproj" />
   <Project Path="MethodsOpg1.8/MethodsOpg1.08.csproj" />
   <Project Path="MethodsOpg1.9/MethodsOpg1.09.csproj" />
+  <Project Path="MethodsOpg2.01/MethodsOpg2.01.csproj" Id="af0ca410-de33-46bb-ba51-6d9f4d94247f" />
+  <Project Path="MethodsOpg3.01/MethodsOpg3.01.csproj" Id="97a456d5-7e7b-4e60-9148-0c6b6bb0bc26" />
 </Solution>
